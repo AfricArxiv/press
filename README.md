@@ -1,8 +1,9 @@
 # AfricArxiv Press Package
 ### Contents  
 [Summary](#summary)  
-[Press Releases](#pressreleases)  
-[Press Coverage](#presscoverage)    
+[Press Releases](#press-releases)  
+[Press Coverage](#press-coverage)
+
 
 ## Summary
 This repository contains all the press and media coverage related items and information about AfricArXiv since its inception in 2018. This is inclusive of logo items used in official communication, milestones and roadmap outlined till 2023.
