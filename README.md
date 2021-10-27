@@ -91,4 +91,4 @@ This repository contains all the press and media coverage related items and info
 
 ## More Information
 - Press page on our website: https://info.africarxiv.org/press/ 
-- AfricArXiv Roadmap: https://docs.google.com/document/d/19_zD0p9d3OwtRz2zl3dzWVtyo2BIM3f_hnVV5i3aIhE/edit?usp=sharing
+- AfricArXiv Roadmap: https://info.africarxiv.org/roadmap/
