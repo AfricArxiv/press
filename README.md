@@ -83,6 +83,6 @@ This repository contains all the press and media coverage related items and info
 
 
 ## More Information
-- 2018 Apr: The seed for AfricArXiv was planted during the 2nd AfricaOSH summit in Kumasi, Ghana. [Historic tweet](https://twitter.com/JooGraced/status/985171790438813697 )
+- 2018 Apr: The seed for AfricArXiv was planted during the AfricaOSH summit in Kumasi, Ghana. [Historic tweet](https://twitter.com/JooGraced/status/985171790438813697 )
 - Press page on our website: https://info.africarxiv.org/press/ 
 - AfricArXiv Roadmap: https://info.africarxiv.org/roadmap/
