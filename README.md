@@ -7,12 +7,8 @@
 
 ## Summary
 This repository contains all the press and media coverage related items and information about AfricArXiv since its inception in 2018. This is inclusive of logo items used in official communication, milestones and roadmap outlined till 2023.
-## Milestone achievements
-2020 Nov: [COAR, TCC Africa and AfricArXiv sign partnership agreement](https://info.africarxiv.org/coar-tcc-africa-and-africarxiv-sign-partnership-agreement/)
 
-2020 Aug: [1K USD Fundraising goal achieved: OSF preprint hosting & maintenance 2020](https://info.africarxiv.org/goal-achieved-osf-preprint-hosting-maintenance-2020/)
 
-2020 Jun: [AfricArXiv joins Invest in Open Infrastructure (IOI) consultation ](http://investinopen.org/)
 
 2020 Mar: [AfricArXiv launches COVID-19 info portal](https://info.africarxiv.org/covid-19/)
 
@@ -37,13 +33,18 @@ This repository contains all the press and media coverage related items and info
 
 2020-11-19 [COAR, TCC Africa and AfricArXiv sign partnership agreement](https://info.africarxiv.org/coar-tcc-africa-and-africarxiv-sign-partnership-agreement/)
 
+
 2020-10-22 [AfricArXiv and COS partner to support pan-African research](https://info.africarxiv.org/africarxiv-and-cos-partner-to-support-pan-african-research/)
 
 2020-10-13 [AfricArXiv in a nutshell – what we do, our achievements and our roadmap](https://info.africarxiv.org/in-a-nutshell/)
 
 2020-09-22 [Call to action: COVID-19 Rapid Review](https://info.africarxiv.org/call-to-action-covid-19-rapid-review/)
 
+2020-08 [1K USD Fundraising goal achieved: OSF preprint hosting & maintenance 2020](https://info.africarxiv.org/goal-achieved-osf-preprint-hosting-maintenance-2020/)
+
 2020-07-08 [Addressing Science Literacy in Africa Through Open Access](https://info.africarxiv.org/addressing-science-literacy-in-africa-through-open-access/)
+
+2020-06 [AfricArXiv joins Invest in Open Infrastructure (IOI) consultation ](http://investinopen.org/)
 
 2020-04-23 [Knowledge Futures Group and AfricArXiv launch Audio/Visual Preprint Repository on PubPub](https://info.africarxiv.org/knowledge-futures-group-and-africarxiv-launch-audio-visual-preprint-repository-on-pubpub/)
 
