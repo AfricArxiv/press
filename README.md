@@ -1,22 +1,9 @@
 # AfricArxiv Press Package
-### Contents  
-[Summary](#summary)  
-[Press Releases](#press-releases)  
-[Press Coverage](#press-coverage)
-
-
-## Summary
 This repository contains all the press and media coverage related items and information about AfricArXiv since its inception in 2018. This is inclusive of logo items used in official communication, milestones and roadmap outlined till 2023.
 
+### Contents  
+[Press Releases](#press-releases) | [Press Coverage](#press-coverage) | [More Information](#more-information)
 
-
-2020 Mar: [AfricArXiv launches COVID-19 info portal](https://info.africarxiv.org/covid-19/)
-
-2019 Apr: [Launch of the African Principles for Open Access in Scholarly Communication ](https://info.africarxiv.org/african-oa-principles/)
-
-2018 Jun: [The Center for Open Science and AfricArXiv Launch Branded Preprint Service](https://info.africarxiv.org/the-center-for-open-science-and-africarxiv-launch-branded-preprint-service/)
-
-2018 Apr: The seed for AfricArXiv was planted during the 2nd AfricaOSH summit in Kumasi, Ghana. [Historic tweet](https://twitter.com/JooGraced/status/985171790438813697 )
 
 ## Press Releases
 2021-10-22 [New Dawn for African Researchers as TCC Africa and AfricArXiv Announce Formal Collaboration](https://info.africarxiv.org/new-dawn-for-african-researchers-as-tcc-africa-and-africarxiv-announce-formal-collaboration/)
@@ -32,7 +19,6 @@ This repository contains all the press and media coverage related items and info
 2020-11-23 [AfricArXiv supports the virtual Chatbot Africa & Conversational AI Summit 2021](https://info.africarxiv.org/africarxiv-supports-the-virtual-chatbot-africa-conversational-ai-summit-2021/)
 
 2020-11-19 [COAR, TCC Africa and AfricArXiv sign partnership agreement](https://info.africarxiv.org/coar-tcc-africa-and-africarxiv-sign-partnership-agreement/)
-
 
 2020-10-22 [AfricArXiv and COS partner to support pan-African research](https://info.africarxiv.org/africarxiv-and-cos-partner-to-support-pan-african-research/)
 
@@ -50,6 +36,8 @@ This repository contains all the press and media coverage related items and info
 
 2020-03-13 [Why African researchers should join the Psychological Science Accelerator](https://info.africarxiv.org/join-the-psychological-science-accelerator/)
 
+2020-03 [AfricArXiv launches COVID-19 info portal](https://info.africarxiv.org/covid-19/)
+
 2020-02-27 [ORCID integrations on OSF, ScienceOpen and Zenodo via AfricArXiv](https://info.africarxiv.org/orcid-integrations-on-osf-scienceopen-and-zenodo-via-africarxiv/)
 
 2020-01-27 [Strategic partnership with ScienceOpen](https://info.africarxiv.org/scienceopen-partnership/)
@@ -57,6 +45,8 @@ This repository contains all the press and media coverage related items and info
 2019-05-23 [Strategic partnership with Open Knowledge Maps](https://info.africarxiv.org/strategic-partnership-with-open-knowledge-maps/)
 
 2019-04-18 [Strategic Partnership with IGDORE](https://info.africarxiv.org/strategic-partnership-with-igdore/)
+
+2019-04 [Launch of the African Principles for Open Access in Scholarly Communication ](https://info.africarxiv.org/african-oa-principles/)
 
 2018-06-25 [The Center for Open Science and AfricArXiv Launch Branded Preprint Service](https://cos.io/about/news/center-open-science-and-africarxiv-launch-branded-preprint-service/)
 
@@ -89,7 +79,10 @@ This repository contains all the press and media coverage related items and info
 
 2018-06-25 [African scientists launch their own preprint](https://www.natureindex.com/news-blog/african-scientists-launch-their-own-preprint), Nature Index (en)
 
+2018-06 [The Center for Open Science and AfricArXiv Launch Branded Preprint Service](https://info.africarxiv.org/the-center-for-open-science-and-africarxiv-launch-branded-preprint-service/)
+
 
 ## More Information
+- 2018 Apr: The seed for AfricArXiv was planted during the 2nd AfricaOSH summit in Kumasi, Ghana. [Historic tweet](https://twitter.com/JooGraced/status/985171790438813697 )
 - Press page on our website: https://info.africarxiv.org/press/ 
 - AfricArXiv Roadmap: https://info.africarxiv.org/roadmap/
